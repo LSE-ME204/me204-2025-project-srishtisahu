@@ -10,11 +10,11 @@ This project explores how three visual factors—**brightness**, **size**, and *
 
 📈 When analysed individually, all three factors—brightness, size, and colourfulness—show an **increasing pattern** in the number of people attracted as the **intensity increases**.
 
-![Size BarPlot](images/size_plot.png)
+![Size BarPlot](./images/size_plot.png)
 
-![Brightness BarPlot](images/brightness_plot.png)
+![Brightness BarPlot](./images/brightness_plot.png)
 
-![Colourfulness BarPlot](images/colourfulness_plot.png)
+![Colourfulness BarPlot](./images/colourfulness_plot.png)
 
 🔥 According to the heatmaps, the **most attention** was drawn to:
 
@@ -24,15 +24,15 @@ This project explores how three visual factors—**brightness**, **size**, and *
 
   This is a bit unexpected, isn’t it?
 
-  ![Brightness + Size Heatmap](images/brightness+size_plot.png)  
+  ![Brightness + Size Heatmap](./images/brightness+size_plot.png)  
 
-  ![Colourfulness + Size Heatmap](images/colourfulness+size_plot.png)  
+  ![Colourfulness + Size Heatmap](./images/colourfulness+size_plot.png)  
 
 The reason behind this can be seen using box plots for brightness and colourfulness as it shows outliers:
 
-![Brightness + Size Boxplot](images/brightness+size_boxplot.png)
+![Brightness + Size Boxplot](./images/brightness+size_boxplot.png)
 
-![Colourfulness + Size Boxplot](images/colourfulness+size_boxplot.png)
+![Colourfulness + Size Boxplot](./images/colourfulness+size_boxplot.png)
 
 As seen, there are outliers in both the boxplots resulting in the strange results from the heatmaps!!
 
